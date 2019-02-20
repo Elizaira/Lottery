@@ -31,5 +31,6 @@ In Powerball, the user picks six numbers per ticket. The first five numbers are 
 
 #### Set the following in the code:
 Ticket Price = 1 ether
+
 Round Length = 3 minutes
 
