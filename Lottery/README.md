@@ -98,9 +98,9 @@ When the time finishes, click the winningNumbersFor if you won in the lottery. I
 
 #### Members: 
 
-Camigla, Jefferson
-Fernandez, Reinier Jose 
-Rante, Junie
-Rivera, Katherine
-Ramos, Eliza Ira 
+* Camigla, Jefferson
+* Fernandez, Reinier Jose 
+* Rante, Junie
+* Rivera, Katherine
+* Ramos, Eliza Ira 
 
