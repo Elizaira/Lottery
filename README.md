@@ -34,3 +34,9 @@ Ticket Price = 1 ether
 
 Round Length = 3 minutes
 
+### Members:
+* Camigla, Jefferson
+* Fernandez, Reinier Jose 
+* Rante, Junie
+* Rivera, Katherine
+* Ramos, Eliza Ira 
