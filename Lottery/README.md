@@ -96,7 +96,7 @@ Wait until the roundLength finish. **NOTE:** While waiting check the following:
 When the time finishes, click the winningNumbersFor if you won in the lottery. If your number combinations won click the claim and type the round and the address to claim the reward.
 
 
-####Members: 
+#### Members: 
 
 Camigla, Jefferson
 Fernandez, Reinier Jose 
